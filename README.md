@@ -1,14 +1,14 @@
 <div align="center">
-	<h3>👧🏻LARA-MD WHATSAPP BOT👧🏻</h3>
-<img src="https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg" width="300" height="150">
+	<h3>👧🏻POPKID-MD WHATSAPP BOT👧🏻</h3>
+<img src="https://telegra.ph/file/4fe5da5003e390a58de5f.jpg" width="300" height="150">
 </div>
 <div align="center">
 </p>
 	
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+SADDESHA+LARA+MD+DEVELOPER)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+POPKID+APP+MD+DEVELOPER)](https://git.io/typing-svg)
 
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Lara-MD...;Created+by+Sadeesha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Lara-MD..."
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Lara-MD...;Created+by+Popkid...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Popkid-MD..."
             alt="Typing">
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 <hr>
 
-			Lara-MD බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි. මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි
+			Popkid-MD බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි. මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි
        
 <h3>🌸 How To Deploy </h3>
 
@@ -48,7 +48,7 @@
 *🌸 If you past session id in (config.js/SESSION_ID || "past_copy_text")*
 
 <h3>🌸 Supported Group link </h3>
-<a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Alexa suported 👧</a>
+<a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l">Join Popkid suported 👧</a>
 <hr>
 <h3>🌸 Lara updates chanels </h3>
 <a href="https://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J">Join Alexa updates chanel 👧</a>
@@ -62,12 +62,12 @@
 --------	 
 1.  #### DEPLOY IN HEROKU 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/sadiyamin/Lara-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Popkiddevs/POPKID-BOT)
 
 --------
 2.  #### DEPLOY IN REPLIT
 
-   <a href='https://repl.it/github/sadiyamin/Lara-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+   <a href='https://repl.it/github/Popkiddevs/POPKID-BOT' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------
 3.  #### DEPLOY IN KOYEB
@@ -185,16 +185,16 @@ jobs:
 
 
 <h5>🌸 TOTAL WEB VIEWS</h5>
-<img src="https://profile-counter.glitch.me/Sadeesha/count.svg" center>
+<img src="https://profile-counter.glitch.me/Popkiddevs/count.svg" center>
 
 <hr>
 
 <div align="center">
-<h3>🌸 LARA-MD Developer Team 👤</h3>
+<h3>🌸 POPKID-MD Developer Team 👤</h3>
 
-| SADEESHA 👤              | VIHANGA 👤              | SADEEPA 👤            |
+| POPKIDDEVS 👤              | POPKID 👤              | KING-POP 👤            |
 |---------------------|---------------------|---------------------|
-[![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) | [![Sadeepa](https://i.ibb.co/ZK5mwt3/IMG-20241019-WA0005.jpg)](https://github.com/sadiyamin/Alexa/) |
+[![Owner](https://telegra.ph/file/4fe5da5003e390a58de5f.jpg)](https://github.com/Popkiddevs/POPKID-BOT/) | [![POPKID-DEVS](https://telegra.ph/file/4fe5da5003e390a58de5f.jpg)](https://github.com/sadiyamin/Alexa) | [![POPKID](https://telegra.ph/file/4fe5da5003e390a58de5f.jpg)](https://github.com/sadiyamin/Alexa/) |
 | DEVELOPER & FOUNDER | MODULE CREATE | BUG TESTER |
 </div>
 <hr>
