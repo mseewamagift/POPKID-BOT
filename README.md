@@ -27,7 +27,7 @@
 <hr>	
 <h3>🌸 Get Your SESSION ID 👇</h3> 
 <h4>Click the SESSION_ID Button</h4>
-<h5>🌸(SESSION_ID ලබා ගැනීමට පහත බටන් එක click කරන්න)</h5> 
+<h5>🌸(SESSION_ID FROM HERE click THIS)</h5> 
 <br>
 <h3>SEVER ➊</h3>
 <div align="center">
