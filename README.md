@@ -143,7 +143,7 @@ jobs:
 ```	
 </details>
 <hr>
-<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Sadeesha_Min" alt="">
+<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Popkid_ke" alt="">
 <hr>
 
 **🌸 FREE DEPLOY WORKFLOWS**
