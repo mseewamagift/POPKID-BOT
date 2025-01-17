@@ -1,5 +1,5 @@
 <div align="center">
-	<h3>👧🏻POPKID-MD WHATSAPP BOT👧🏻</h3>
+	<h3>👧🏻JAMES-MD BOT👧🏻</h3>
 <img src="https://telegra.ph/file/4fe5da5003e390a58de5f.jpg" width="300" height="150">
 </div>
 <div align="center">
