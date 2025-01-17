@@ -29,15 +29,11 @@
 <h4>Click the SESSION_ID Button</h4>
 <h5>🌸(SESSION_ID FROM HERE click THIS)</h5> 
 <br>
-<h3>SEVER ➊</h3>
+<h3>𝐏𝐎𝐏𝐊𝐈𝐃 𝐏𝐀𝐈𝐑1️⃣</h3>
 <div align="center">
 <button><tr><a href="https://webpair-mega-1d2j.onrender.com/">🌸 SESSION_ID 🌸 ➊</a></tr></button>
 <br>
-<h3>SEVER ❷</h3>
-<div align="center">
-<button><tr><a href="https://webpair-mega-1.onrender.com/pair">🌸 SESSION_ID 🌸 ❷</a></tr></button>
-<br>
-<h3>SEVER ➌</h3>
+<h3>𝐏𝐎𝐏𝐊𝐈𝐃 𝐏𝐀𝐈𝐑2️⃣</h3>
 <div align="center">
 <button><tr><a href="https://express-pairing-code2-1.onrender.com/">🌸 SESSION_ID 🌸 ➌</a></tr></button>
 </div>
@@ -143,7 +139,7 @@ jobs:
 ```	
 </details>
 <hr>
-<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Sadeesha_Min" alt="">
+<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Popkid_ke" alt="">
 <hr>
 
 **🌸 FREE DEPLOY WORKFLOWS**
