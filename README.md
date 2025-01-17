@@ -48,10 +48,10 @@
 *🌸 If you past session id in (config.js/SESSION_ID || "past_copy_text")*
 
 <h3>🌸 Supported Group link </h3>
-<a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l">Join Popkid suported 👧</a>
+<a href="https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H">Join james suported 👧</a>
 <hr>
 <h3>🌸 Lara updates chanels </h3>
-<a href="https://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J">Join Alexa updates chanel 👧</a>
+<a href="https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H">Join JAMES updates channel👧</a>
 <hr>
 
 ***CLICK THE BUTTON BELOW TO DEPLOY🌸***
@@ -190,11 +190,11 @@ jobs:
 <hr>
 
 <div align="center">
-<h3>🌸 POPKID-MD Developer Team 👤</h3>
+<h3>🌸 JAMES-MD Developer Team 👤</h3>
 
-| POPKIDDEVS 👤              | POPKID 👤              | KING-POP 👤            |
+| JAMES👤              | GAMING👤              | KIJAMES-👤            |
 |---------------------|---------------------|---------------------|
-[![Owner](https://telegra.ph/file/4fe5da5003e390a58de5f.jpg)](https://github.com/Popkiddevs/POPKID-BOT/) | [![POPKID-DEVS](https://telegra.ph/file/4fe5da5003e390a58de5f.jpg)](https://github.com/sadiyamin/Alexa) | [![POPKID](https://telegra.ph/file/4fe5da5003e390a58de5f.jpg)](https://github.com/sadiyamin/Alexa/) |
+[![Owner](https://telegra.ph/file/4fe5da5003e390a58de5f.jpg)](https://github.com/Popkiddevs/JAMES-MD/) | [![JAMES-TECH](https://telegra.ph/file/4fe5da5003e390a58de5f.jpg)](https://github.com/sadiyamin/Alexa) | [![JAMES](https://telegra.ph/file/4fe5da5003e390a58de5f.jpg)](https://github.com/sadiyamin/Alexa/) |
 | DEVELOPER & FOUNDER | MODULE CREATE | BUG TESTER |
 </div>
 <hr>
@@ -214,7 +214,7 @@ jobs:
 
 </div>
 
-<h5>Thank You For Using Lara-MD 💗</h5>
+<h5>Thank You For Using JAMES-MD 💗</h5>
 
 <hr>
 
