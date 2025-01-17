@@ -1,6 +1,6 @@
 <div align="center">
 	<h3>👧🏻JAMES-MD BOT👧🏻</h3>
-<img src="https://telegra.ph/file/4fe5da5003e390a58de5f.jpg" width="300" height="150">
+<img src="https://files.catbox.moe/fq2bip.jpg" width="300" height="150">
 </div>
 <div align="center">
 </p>
@@ -8,7 +8,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+POPKID+APP+MD+DEVELOPER)](https://git.io/typing-svg)
 
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Popkid-MD...;Created+by+Popkid...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Popkid-MD..."
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Popkid-MD...;Created+by+Popkid...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+JAMES-MD..."
             alt="Typing">
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 <hr>
 
-			Popkid-MD බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි. මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි
+			JAMES-MD බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි. මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි
        
 <h3>🌸 How To Deploy </h3>
 
